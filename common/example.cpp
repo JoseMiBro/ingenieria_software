@@ -10,6 +10,7 @@
 #include <time.h>
 
 //Esto es un cambio sobre la rama original
+//Esto es un cambio sobre la rama new_branch
 
 struct GameInfo
 {
