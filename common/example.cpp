@@ -9,7 +9,7 @@
 #include "Clock.h"
 #include <time.h>
 
-//Esto es un cambio para el Commit 1
+//Esto es un cambio nuevo en el original para generar un conflicto
 
 struct GameInfo
 {
