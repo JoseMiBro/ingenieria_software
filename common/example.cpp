@@ -9,7 +9,7 @@
 #include "Clock.h"
 #include <time.h>
 
-//Esto es un cambio nuevo en la copia para generar un conflicto
+//Esto es un cambio nuevo en el original para generar un conflicto
 
 struct GameInfo
 {
@@ -71,7 +71,7 @@ int Main(void)
 
 		//Anyadir play time
 		playTime += lastFrameTime;
-		//Solo por claridad lógica
+		//Solo por claridad lï¿½gica
 		tick = lastFrameTime;
 		//Calcular fps
 		fps = 1.f / (lastFrameTime);
