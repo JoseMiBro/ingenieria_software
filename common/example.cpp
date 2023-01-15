@@ -9,7 +9,7 @@
 #include "Clock.h"
 #include <time.h>
 
-//Esto es un cambio sobre una rama nueva
+//Esto es un cambio sobre la rama new_branch
 
 struct GameInfo
 {
