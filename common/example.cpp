@@ -9,6 +9,8 @@
 #include "Clock.h"
 #include <time.h>
 
+//Esto es un cambio para el Commit 1
+
 struct GameInfo
 {
 	unsigned int num_balls = 10;
